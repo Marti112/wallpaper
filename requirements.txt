@@ -1,0 +1,9 @@
+requests
+pywin32
+servicemanager
+pyinstaller
+PyTelegramBotApi
+telebot
+flask
+gevent
+bs4
